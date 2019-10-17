@@ -1,1 +1,1 @@
-# reccipe-app-api
+# recipe-app-api
